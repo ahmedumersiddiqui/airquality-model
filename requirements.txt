@@ -1,0 +1,7 @@
+Flask
+numpy
+tensorflow
+pandas
+joblib
+pymongo
+python-dotenv
